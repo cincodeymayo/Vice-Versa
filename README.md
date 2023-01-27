@@ -29,4 +29,6 @@ CincoV5, or Opensea customers or blockchain, shall proceed without interpretatio
 Ox351eD2ee16bbE5d3F8c6235E7f2CA7a3e9287656 or customers,or tokenized contractor or who buy from CincoV5 aka Bennett Gray V.
 secondary sales bought from CincoV5, pay 10% royalties.
 CincoV5 Smart Contract on Opensea is only pertaining to unauthorized sales, distributions,or people without permission.
-The nft, and blockchains shall proceed, without interpretation.
+The nft, and blockchains shall proceed, without interruption.
+No violating sales or stealing from CincoV5, aka Bennett Gray V.
+
