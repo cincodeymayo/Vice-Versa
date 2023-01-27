@@ -15,7 +15,7 @@ modification, are permitted provided that the following conditions are met:
  4 intellectual properties or distributing before,  or after contract,
    This software without specific prior permission. 
    distributing, or selling of the files, before or after contract
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND "AS IS"
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDER AND "AS IS"
 AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
 IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
 DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
