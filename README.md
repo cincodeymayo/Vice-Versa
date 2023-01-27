@@ -18,7 +18,7 @@ modification, are permitted provided that the following conditions are met:
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDER AND "AS IS"
 AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
 IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE
 FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
 DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
 SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
@@ -28,7 +28,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 CincoV5, or Opensea customers or blockchain, shall proceed.
 Ox351eD2ee16bbE5d3F8c6235E7f2CA7a3e9287656 or customers,or tokenized contractor or who buy from CincoV5 aka Bennett Gray V.
 secondary sales bought from CincoV5, pay 10% royalties.
-CincoV5 Smart Contract on Opensea is only pertaining to unauthorized sales, distributions,or people without permission.
+CincoV5 Smart Contract on Opensea is only pertaining to unauthorized sales, distributions,or people without permission, no value to stolen blockchain.
 The nft's, contracts and blockchains shall proceed, as normal. 
 No violating sales or stealing from CincoV5, aka Bennett Gray V.
 
