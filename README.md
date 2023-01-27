@@ -1,4 +1,4 @@
-# Vice-Versa
+# Vice/Versa, Tim Exclusive, Vice/Versa White, Weed elemental challenge, 
 NFT Collection Smart Contract
 BSD 3-Clause License
 Copyright (c) 2022, Mint/ Owner
@@ -27,5 +27,6 @@ OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 unless sold by CincoV5, or Opensea cusomers who bought directly through Opensea 
 Every copy and code distributed
-the only address to buy direct from Ox351eD2ee16bbE5d3F8c6235E7f2CA7a3e9287656 or customers, who buy from CincoV5 off opensea,
+the only address to buy direct from Ox351eD2ee16bbE5d3F8c6235E7f2CA7a3e9287656 or customers, who buy from CincoV5 aka Bennett Gray V off opensea,
 secondary sales bought from CincoV5 or buying from CincoV5 customers will have to pay 10% royalties.
+CincoV5 contract on Opensea is only pertaining to unauthorized sales, or without permission.
