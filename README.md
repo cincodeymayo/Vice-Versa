@@ -10,9 +10,9 @@ modification, are permitted provided that the following conditions are met:
    this list of conditions and the following disclaimer in the documentation
    and/or other materials provided with the distribution.
 3.CincoV5 is Bennett Gray V is the name of the copyright holder the name
-  no violating the intellectual properties
+  no violating the intellectual properties of 
    this software 
- 4 intellectual properties or distributing before,  or after contract,
+4.intellectual properties or distributing before,  or after contract,
    This software without specific prior permission. 
    distributing, or selling of the files, before or after contract
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDER AND "AS IS"
@@ -27,11 +27,15 @@ OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 CincoV5 aka Bennett Gray V is not liable for any damages, or images, or pictures used, 
 also not liable, in court or law for any copyright or trademark,direct or indirect damages,
-or personal damages, to any person, entity, or corporation.
+or personal damages, to any person, entity, or corporation. cincodeymayo
 CincoV5, or Opensea customers or blockchain, and opensea will not be held liable, corporations, 
   that are customers, of CincoV5, or opensea contractor,will not be held liable,in law, or court,
  whoever buys from CincoV5 aka Bennett Gray V.
 secondary sales, customers pay 10% royalties, to Cincov5
+CincoV5, Opensea or blockchain, and opensea will not be held liable, corporations, 
+  that are customers, of CincoV5, or opensea ,will not be held liable,in law, or court,
+ whoever buys from CincoV5 aka Bennett Gray V, or tokenized contract holder, unless Rachael Browner, or her associates.
+Secondary sales, customers pay 10% royalties, to Cincov5
 The nft's, contracts and blockchains shall proceed, as normal.
 If nft's are stolen or taken without permission,block chain or asset,
 will be recognized as counterfeit, and fraud.
@@ -39,5 +43,8 @@ No violating sales or stealing nft's, blockchain, or mints from CincoV5., is con
 Aka Bennett Gray V.
  No illegal or unauthorized transfers, and CincoV5, is not liable for 
 Intellectual property rights, or damages, direct or indirect.
-
+Opensea tokenized contractor, has limited authorized permission. nft's, theft, of mint's will be held as,
+Liable of federal prison for, the rest of there lives.
+Excluding Bennett Gray V aka CincoV5, is witheld from any liability, or consequences.
+This contract is enforced, and stands "AS IS", smart contract.
 
