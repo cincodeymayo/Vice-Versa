@@ -1,4 +1,4 @@
-# Vice/Versa, Tim Exclusive, Vice/Versa White, Weed elemental challenge, Dezire,Fire,Higher, Smart Contract
+# Vice/Versa, Tim Exclusive, Vice/Versa White, Weed elemental challenge, Dezire,Fire,Higher, 
 NFT Collections Smart Contract
 BSD 3-Clause License
 Copyright (c) 2022, Mint/ Owner
@@ -25,10 +25,10 @@ SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
 CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-CincoV5, or Opensea customers or blockchain, shall proceed.
-Ox351eD2ee16bbE5d3F8c6235E7f2CA7a3e9287656 or customers,or tokenized contractor or who buy from CincoV5 aka Bennett Gray V.
+CincoV5, or Opensea customers or blockchain, shall proceed or customers, 
+ who buy from CincoV5 aka Bennett Gray V.
 secondary sales bought from CincoV5, pay 10% royalties.
-CincoV5 Smart Contract on Opensea is only pertaining to unauthorized sales, distributions,or people without permission, no value to stolen blockchain.
+CincoV5 Smart Contract
 The nft's, contracts and blockchains shall proceed, as normal. 
 No violating sales or stealing from CincoV5, aka Bennett Gray V.
 
