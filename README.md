@@ -29,7 +29,7 @@ CincoV5 aka Bennett Gray V is not liable for any damages, or images, or pictures
 also not liable, in court or law for any copyright or trademark,direct or indirect damages,
 or personal damages, to any person, entity, or corporation.
 CincoV5, or Opensea customers or blockchain, and opensea will not be held liable, corporations, 
-  that are customers, of CincoV5, or opensea ,will not be held liable,in law, or court,
+  that are customers, of CincoV5, or opensea contractor,will not be held liable,in law, or court,
  whoever buys from CincoV5 aka Bennett Gray V.
 secondary sales, customers pay 10% royalties, to Cincov5
 The nft's, contracts and blockchains shall proceed, as normal.
