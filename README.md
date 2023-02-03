@@ -27,7 +27,11 @@ OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 CincoV5 aka Bennett Gray V is not liable for any damages, or images, or pictures used, 
 also not liable, in court or law for any copyright or trademark,direct or indirect damages,
-or personal damages, to any person, entity, or corporation.
+or personal damages, to any person, entity, or corporation. cincodeymayo
+CincoV5, or Opensea customers or blockchain, and opensea will not be held liable, corporations, 
+  that are customers, of CincoV5, or opensea contractor,will not be held liable,in law, or court,
+ whoever buys from CincoV5 aka Bennett Gray V.
+secondary sales, customers pay 10% royalties, to Cincov5
 CincoV5, Opensea or blockchain, and opensea will not be held liable, corporations, 
   that are customers, of CincoV5, or opensea ,will not be held liable,in law, or court,
  whoever buys from CincoV5 aka Bennett Gray V, or tokenized contract holder, unless Rachael Browner, or her associates.
