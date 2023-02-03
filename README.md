@@ -1,4 +1,4 @@
-# Vice/Versa, Tim Exclusive, Vice/Versa White, Weed elemental challenge, Dezire,Fire,Higher, 
+ Vice/Versa, Tim Exclusive, Vice/Versa White, Weed elemental challenge, Dezire,Fire,Higher, 
 NFT Collections Smart Contract 
 BSD 3-Clause License
 Copyright (c) 2022, Mint/ Owner opensea
@@ -21,19 +21,23 @@ IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
 DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE
 FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
 DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
-SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) NOT LIABLE
 CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
 OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-CincoV5 aka Bennett Gray V is not liable for any damages, or images used, 
-also not liable, in court or law for any copyright,direct or indirect damages.
-CincoV5, or Opensea customers or blockchain, and opensea will not be held liable, corporations, or paying customers, will not be held liable 
- who buy from CincoV5 aka Bennett Gray V.
-secondary sales bought from CincoV5,or customers pay 10% royalties, to Cincov5
+CincoV5 aka Bennett Gray V is not liable for any damages, or images, or pictures used, 
+also not liable, in court or law for any copyright or trademark,direct or indirect damages,
+or personal damages, to any person, entity, or corporation.
+CincoV5, or Opensea customers or blockchain, and opensea will not be held liable, corporations, 
+  that are customers, of CincoV5, or opensea ,will not be held liable,in law, or court,
+ whoever buys from CincoV5 aka Bennett Gray V.
+secondary sales, customers pay 10% royalties, to Cincov5
 The nft's, contracts and blockchains shall proceed, as normal.
 If nft's are stolen or taken without permission,block chain or asset,
 will be recognized as counterfeit, and fraud.
-No violating sales or stealing nft's, blockchain, or mints from CincoV5.
+No violating sales or stealing nft's, blockchain, or mints from CincoV5., is considered counterfeit.
 Aka Bennett Gray V.
- No illegal or unauthorized transfers.
+ No illegal or unauthorized transfers, and CincoV5, is not liable for 
+Intellectual property rights, or damages, direct or indirect.
+
 
