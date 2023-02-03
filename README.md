@@ -10,7 +10,7 @@ modification, are permitted provided that the following conditions are met:
    this list of conditions and the following disclaimer in the documentation
    and/or other materials provided with the distribution.
 3.CincoV5 is Bennett Gray V is the name of the copyright holder the name
-  no violating the intellectual properties
+  no violating the intellectual properties of 
    this software 
  4 intellectual properties or distributing before,  or after contract,
    This software without specific prior permission. 
@@ -39,5 +39,7 @@ No violating sales or stealing nft's, blockchain, or mints from CincoV5., is con
 Aka Bennett Gray V.
  No illegal or unauthorized transfers, and CincoV5, is not liable for 
 Intellectual property rights, or damages, direct or indirect.
-Opensea tokenized contractor, has limited authorized permission
+Opensea tokenized contractor, has limited authorized permission. nft's, theft, of mint's will be held
+Liable of federal jail for, the rest of there lives.
+Excluding Bennett Gray V aka CincoV5, from any liability. 
 
