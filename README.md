@@ -12,7 +12,7 @@ modification, are permitted provided that the following conditions are met:
 3.CincoV5 is Bennett Gray V is the name of the copyright holder the name
   no violating the intellectual properties of 
    this software 
- 4 intellectual properties or distributing before,  or after contract,
+4.intellectual properties or distributing before,  or after contract,
    This software without specific prior permission. 
    distributing, or selling of the files, before or after contract
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDER AND "AS IS"
