@@ -39,5 +39,5 @@ No violating sales or stealing nft's, blockchain, or mints from CincoV5., is con
 Aka Bennett Gray V.
  No illegal or unauthorized transfers, and CincoV5, is not liable for 
 Intellectual property rights, or damages, direct or indirect.
-
+Opensea tokenized contractor, has limited authorized permission
 
