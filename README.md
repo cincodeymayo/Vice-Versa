@@ -42,4 +42,5 @@ Intellectual property rights, or damages, direct or indirect.
 Opensea tokenized contractor, has limited authorized permission. nft's, theft, of mint's will be held as,
 Liable of federal prison for, the rest of there lives.
 Excluding Bennett Gray V aka CincoV5, is witheld from any liability, or consequences.
+This contract is enforced, and stands "AS IS", smart contract.
 
