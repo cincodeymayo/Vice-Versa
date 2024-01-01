@@ -47,4 +47,4 @@ Opensea tokenized contractor, has limited authorized permission. nft's, theft, o
 Liable of federal prison for, the rest of there lives.
 Excluding Bennett Gray V aka CincoV5, is witheld from any liability, or consequences.
 This contract is enforced, and stands "AS IS", smart contract.
-
+please if your locked away for stealing the designs you can eat regualr food and drink water and watch t.v just like the average person sitting in a jail sail.
