@@ -1,4 +1,4 @@
- Vice/Versa, Tim Exclusive, Vice/Versa White, Weed elemental challenge, Dezire,Fire,Higher, 
+k Vice/Versa, Tim Exclusive, Vice/Versa White, Weed elemental challenge, Dezire,Fire,Higher, 
 NFT Collections Smart Contract 
 BSD 3-Clause License
 Copyright (c) 2022, Mint/ Owner opensea
@@ -49,3 +49,4 @@ Excluding Bennett Gray V aka CincoV5, is witheld from any liability, or conseque
 This contract is enforced, and stands "AS IS", smart contract.
 please if your locked away for stealing the designs you can eat regualr food and drink water and watch t.v just like the average person sitting in a jail sail.
 now that the annunaki have been eaten I don't have anything anymore.
+you can eat and drink as normal and can watch t.v as normal but you won't get out of federal now.
